@@ -1,11 +1,11 @@
 # WeiXindemo
-> 线上访问地址 http://YooHannah.github.io/WeiXindemo
+> 线上访问地址 http://YooHannah.github.io/weixinSample
 
 > 如果对您有帮助，您可以点右上角 "Star" 支持一下 谢谢！ ^_^
 
 ---
-本项目为使用开源项目《vue-sui-demo》的架构构建的微信页面的临摹项目
-自己引入《weui》框架
+本项目是使用开源项目《vue-sui-demo》的架构,构建的微信页面的临摹项目
+自己引入了《weui》框架
 
 ##### 技术栈
 
@@ -34,7 +34,7 @@
 项目地址：（使用`git clone`）
 
 ```shell
-git clone https://github.com/YooHannah/WeiXindemo.git
+git clone https://github.com/YooHannah/weixinSample.git
 ```
 
 通过`npm`安装本地服务第三方依赖模块(需要已安装[Node.js](https://nodejs.org/))，使用npm安装依赖模块可能会很慢，建议换成[cnpm](http://cnpmjs.org/)
