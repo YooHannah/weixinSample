@@ -1,0 +1,45 @@
+{
+  "code": 200,
+  "message": "获取成功",
+  "data": [
+    {
+      "publish_icon":"/static/img/collection3.png",
+      "publish_name":"早安英文",
+      "collect_time":"2016-11-24",
+      "isimg":"false",
+      "img":"/static/img/collection5.gif",
+      "title":"感恩节,我们只能请你看电影了",
+      "link":"早安英文",
+      "linkadr":"http://mp.weixin.qq.com/s/Pi0I-rPVKMybVaG27DXT3Q"
+    },
+    {
+      "publish_icon":"/static/img/collection2.jpg",
+      "publish_name":"小提琴课堂",
+      "collect_time":"2016-12-17",
+      "isimg":"false",
+      "img":"/static/img/collection4.jpg",
+      "title":"小提琴抬指规律的探求",
+      "link":"小提琴课堂",
+      "linkadr":"http://mp.weixin.qq.com/s/DI2JF6nzI3wGP989SoH9Hw"
+    },
+    {
+      "publish_icon":"/static/img/mini.png",
+      "publish_name":"Pre-dawn",
+      "collect_time":"2016-12-30",
+      "isimg":"true",
+      "img":"/static/img/collection7.jpg",
+      "title":"",
+      "link":""
+    },
+    {
+      "publish_icon":"/static/img/collection.jpg",
+      "publish_name":"作家兰",
+      "collect_time":"2016-11-2",
+      "isimg":"false",
+      "img":"/static/img/collection6.jpg",
+      "title":"百元内良心钢笔推荐 钱包不痛发热逼格",
+      "link":"知了青年",
+      "linkadr": "http://mp.weixin.qq.com/s/7bobUAhKpIc9wWxZPYQSwA"
+    }
+]
+}

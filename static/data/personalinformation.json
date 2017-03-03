@@ -1,0 +1,32 @@
+{
+  "code": 200,
+  "message": "获取成功",
+  "data": [
+    [{
+      "name":"头像",
+      "value":"/static/img/mini.png"
+    },{
+      "name":"昵称",
+      "value":"Pre-dawn"
+    },{
+      "name":"微信号",
+      "value":"lyhk1214"
+    },{
+      "name":"二维码名片",
+      "value":""
+    },{
+      "name":"我的地址",
+      "value":""
+    }],
+    [{
+      "name":"性别",
+      "value":"女"
+    },{
+      "name":"地区",
+      "value":"广东 深圳"
+    },{
+      "name":"个性签名",
+      "value":"Close the door."
+    }]
+  ]
+}

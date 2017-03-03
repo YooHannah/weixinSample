@@ -1,0 +1,56 @@
+{
+  "code": 200,
+  "message": "获取成功",
+  "data": [
+    {
+      "letter": "A",
+      "contacts":[{
+        "name":"阿福",
+        "avatar":"/static/img/album1.jpg"
+      },{
+        "name":"阿英",
+        "avatar":"/static/img/album12.jpg"
+      }]
+    },
+    {
+      "letter": "D",
+      "contacts":[{
+        "name":"多仔",
+        "avatar":"/static/img/friendscircle14.jpg"
+      },{
+        "name":"朵妹",
+        "avatar":"/static/img/friendscircle2.jpg"
+      }]
+    },
+    {
+      "letter": "E",
+      "contacts":[{
+        "name":"Eason",
+        "avatar":"/static/img/album15.jpg"
+      },{
+        "name":"依贝",
+        "avatar":"/static/img/mini.png"
+      }]
+    },
+    {
+      "letter": "W",
+      "contacts":[{
+        "name":"微微",
+        "avatar":"/static/img/psb.jpg"
+      },{
+        "name":"卫卫",
+        "avatar":"/static/img/friendscircle13.jpg"
+      }]
+    },
+    {
+      "letter": "X",
+      "contacts":[{
+        "name":"嘻嘻",
+        "avatar":"/static/img/album9.jpg"
+      },{
+        "name":"茜茜",
+        "avatar":"/static/img/collection.jpg"
+      }]
+    }
+  ]
+}
