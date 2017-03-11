@@ -26,7 +26,7 @@
 
 ---
 
-![print](./src/assets/img/purse.png)
+![print](./src/assets/img/result.png)
 
 ---
 
